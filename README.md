@@ -1,3 +1,3 @@
-# xvm.solution
+# Vanilla Supremacy Paste (EAX-Based)
 
-an attampt at making a somewhat better vanilla supremcy past based on eax
+This project is an attempt to make a better version of the Supremacy, using EAX as the base.
